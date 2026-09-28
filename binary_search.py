@@ -18,4 +18,4 @@ def binary_search(arr, item):
     return None
 
 print(binary_search(arr, 3))
-print(binary_search(arr,26))
+print(binary_search(arr, 26))
